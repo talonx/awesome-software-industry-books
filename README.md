@@ -79,7 +79,7 @@ Sections and titles are alphabetically arranged.
 - [The Psychology of Computer Programming](https://www.goodreads.com/book/show/1660754.The_Psychology_of_Computer_Programming)
 
 ### Fiction
-- Cryptonomicon
+- [Cryptonomicon](https://www.goodreads.com/book/show/816.Cryptonomicon)
 - [Islands in the Net](https://www.goodreads.com/book/show/218571.Islands_in_the_Net)
 - [Mona Lisa Overdrive](https://www.goodreads.com/book/show/154091.Mona_Lisa_Overdrive)
 - [Snow Crash](https://www.goodreads.com/book/show/40651883-snow-crash)
