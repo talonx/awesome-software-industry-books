@@ -1,10 +1,11 @@
-# # Awesome Software Industry Books
+# Awesome Software Industry Books
 A list of good books for and involving software developers and the software industry. Not limited to programming.
 
 This is a work in progress.
 
 Sections and titles are alphabetically arranged.
 
+---
 ### Autobiography/Biography/Memoir
 - [Elon Musk](https://www.goodreads.com/book/show/122765395-elon-musk)
 - [Hard Drive: Bill Gates and the Making of the Microsoft Empire](https://www.goodreads.com/book/show/41611.Hard_Drive)
@@ -12,12 +13,14 @@ Sections and titles are alphabetically arranged.
 - [Just for Fun: The Story of an Accidental Revolutionary](https://www.goodreads.com/book/show/160171.Just_for_Fun)
 - [Only the Paranoid Survive: How to Exploit the Crisis Points that Challenge Every Company and Career](https://www.goodreads.com/book/show/66863.Only_the_Paranoid_Survive)
 
+---
 ### Career
 - [Being Geek: The Software Developer's Career Handbook](https://www.goodreads.com/en/book/show/8473471)
 - [Own Your Tech Career: Soft skills for technologists](https://www.goodreads.com/book/show/59002602-own-your-tech-career)
 - [Team Geek](https://www.goodreads.com/book/show/14514115-team-geek)
 - [The Staff Engineer's Path: A Guide for Individual Contributors Navigating Growth and Change](https://www.goodreads.com/en/book/show/61058107)
 
+---
 ### Cloud Computing
 - General
   - TBD
@@ -33,7 +36,7 @@ Sections and titles are alphabetically arranged.
   - [Production Kubernetes: Building Successful Application Platforms](https://www.goodreads.com/book/show/56642542-production-kubernetes)
   - [The Book of Kubernetes: A Complete Guide to Container Orchestration](https://www.goodreads.com/book/show/60704824-the-book-of-kubernetes)
 
-
+---
 ### Computer Networks
 - [BGP](https://www.goodreads.com/book/show/2190088.BGP)
 - [Computer Networking: A Top-Down Approach](https://www.goodreads.com/book/show/83847.Computer_Networking)
@@ -48,7 +51,7 @@ Sections and titles are alphabetically arranged.
 - [TCP/IP Illustrated, Vol. 1: The Protocols](https://www.goodreads.com/book/show/22253037-tcp-ip-illustrated-volume-2)
 - [The TCP/IP Guide: A Comprehensive, Illustrated Internet Protocols Reference](https://www.goodreads.com/en/book/show/505564)
 
-
+---
 ### Computing History and Lore
 - [A Mind at Play: How Claude Shannon Invented the Information Age](https://www.goodreads.com/book/show/32919530-a-mind-at-play)
 - [Dreaming in Code](https://www.goodreads.com/book/show/32475.Dreaming_in_Code)
@@ -70,6 +73,7 @@ Sections and titles are alphabetically arranged.
 - [What the Dormouse Said: How the Sixties Counterculture Shaped the Personal Computer Industry](https://www.goodreads.com/book/show/725789.What_the_Dormouse_Said)
 - [Where Wizards Stay Up Late: The Origins of the Internet](https://www.goodreads.com/book/show/281818.Where_Wizards_Stay_Up_Late)
 
+---
 ### Essays
 - [Free Software, Free Society: Selected Essays](https://www.goodreads.com/book/show/942560.Free_Software_Free_Society)
 - [Hackers and Painters](https://www.goodreads.com/en/book/show/41793)
@@ -78,6 +82,7 @@ Sections and titles are alphabetically arranged.
 - [The Cathedral & the Bazaar: Musings On Linux And Open Source By An Accidental Revolutionary](https://www.goodreads.com/book/show/134825.The_Cathedral_the_Bazaar)
 - [The Psychology of Computer Programming](https://www.goodreads.com/book/show/1660754.The_Psychology_of_Computer_Programming)
 
+---
 ### Fiction
 - [Cryptonomicon](https://www.goodreads.com/book/show/816.Cryptonomicon)
 - [Islands in the Net](https://www.goodreads.com/book/show/218571.Islands_in_the_Net)
@@ -87,11 +92,13 @@ Sections and titles are alphabetically arranged.
 - [The Shockwave Rider](https://www.goodreads.com/book/show/41070.The_Shockwave_Rider)
 - [Virtual Light](https://www.goodreads.com/book/show/22326.Virtual_Light)
 
+---
 ### Interviews with Programmers
 - [Coders at Work: Reflections on the Craft of Programming](https://www.goodreads.com/en/book/show/6713575)
 - [Masterminds of Programming: Conversations with the Creators of Major Programming Languages](https://goodreads.com/book/show/1746425.Masterminds_of_Programming_Conversations_with_the_Creators_of_Major_Programming_Languages)
 - [Programmers at Work: Interviews With 19 Programmers Who Shaped the Computer Industry](https://www.goodreads.com/en/book/show/2092682)
 
+---
 ### Managing Software Developers and Projects
 - [Become an Effective Software Engineering Manager](https://www.goodreads.com/book/show/50363684-become-an-effective-software-engineering-manager)
 - [Behind Closed Doors: Secrets of Great Management](https://www.goodreads.com/en/book/show/4100)
@@ -104,7 +111,7 @@ Sections and titles are alphabetically arranged.
 - [The Mythical Man-Month](https://www.goodreads.com/book/show/13629.The_Mythical_Man_Month)
 - [The Peopleware Papers: Notes on the Human Side of Software](https://www.goodreads.com/book/show/67827.The_Peopleware_Papers)
 
-
+---
 ### Operating Systems
 - [Advanced Programming in the UNIX Environment](https://www.goodreads.com/en/book/show/603263)
 - [Design of the UNIX Operating System](https://www.goodreads.com/en/book/show/337343)
@@ -113,6 +120,7 @@ Sections and titles are alphabetically arranged.
 - [The UNIX Programming Environment](https://www.goodreads.com/en/book/show/337338)
 - [UNIX Internals]()
 
+---
 ### Operations/SRE/Platform Engineering
 - [Accelerate: Building and Scaling High Performing Technology Organizations](https://www.goodreads.com/book/show/35747076-accelerate)
 - [Continuous Delivery](https://www.goodreads.com/book/show/8686650-continuous-delivery)
@@ -124,6 +132,7 @@ Sections and titles are alphabetically arranged.
 - [The DevOps Handbook: How to Create World-Class Agility, Reliability, and Security in Technology Organizations](https://www.goodreads.com/book/show/26083308-the-devops-handbook)
 - [Web Operations: Keeping the Data on Time](https://www.goodreads.com/book/show/8571725-web-operations)
 
+---
 ### Programming
 - General
   - [97 Things Every Programmer Should Know: Collective Wisdom from the Experts](https://www.goodreads.com/book/show/7003902-97-things-every-programmer-should-know)
@@ -139,6 +148,7 @@ Sections and titles are alphabetically arranged.
   - [The Psychology of Computer Programming](https://www.goodreads.com/book/show/1660754.The_Psychology_of_Computer_Programming)
   - [Working Effectively with Legacy Code](https://www.goodreads.com/book/show/44919.Working_Effectively_with_Legacy_Code)
 
+---
 ### Software Design and Architecture
 - [97 Things Every Software Architect Should Know](https://www.goodreads.com/en/book/show/5487765)
 - [A Philosophy of Software Design](https://www.goodreads.com/book/show/39996759-a-philosophy-of-software-design)
@@ -155,6 +165,7 @@ Sections and titles are alphabetically arranged.
 - [The Architecture of Open Source Applications](https://www.goodreads.com/book/show/11493988-the-architecture-of-open-source-applications)
 - [The Architecture of Open Source Applications, Volume II](https://www.goodreads.com/book/show/13639631-the-architecture-of-open-source-applications-volume-ii)
 
+---
 ### Software/Tech Companies
 - [Behind the Cloud: The Untold Story of How Salesforce.com Went from Idea to Billion-Dollar Company-and Revolutionized an Industry](https://www.goodreads.com/book/show/6659874-behind-the-cloud)
 - [Big Billion Startup: The Untold Flipkart Story](https://www.goodreads.com/book/show/52346729-big-billion-startup)
@@ -174,7 +185,7 @@ Sections and titles are alphabetically arranged.
 - [The Search: How Google and Its Rivals Rewrote the Rules of Business and Transformed Our Culture](https://www.goodreads.com/book/show/10146.The_Search)
 - [The Story of Commodore: A Company on the Edge](https://www.goodreads.com/book/show/412006.The_Story_of_Commodore)
 
-
+---
 ### System Administration
 - [How Linux Works: What Every Superuser Should Know ](https://www.goodreads.com/book/show/514432.How_Linux_Works)
 - [Systems Performance: Enterprise and the Cloud](https://www.goodreads.com/book/show/18058001-systems-performance)
