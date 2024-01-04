@@ -15,8 +15,8 @@ Sections and titles are alphabetically arranged.
 
 ---
 ### Career
-- [Being Geek: The Software Developer's Career Handbook](https://www.goodreads.com/en/book/show/8473471)
-- [Own Your Tech Career: Soft skills for technologists](https://www.goodreads.com/book/show/59002602-own-your-tech-career)
+- [Being Geek: The Software Developer's Career Handbook](https://www.goodreads.com/en/book/show/8473471) A collection of Michael Lopp's blog entries.
+- [Own Your Tech Career: Soft skills for technologists](https://www.goodreads.com/book/show/59002602-own-your-tech-career) This is a good compendium on managing your tech career.
 - [Team Geek](https://www.goodreads.com/book/show/14514115-team-geek)
 - [The Staff Engineer's Path: A Guide for Individual Contributors Navigating Growth and Change](https://www.goodreads.com/en/book/show/61058107)
 
@@ -38,37 +38,39 @@ Sections and titles are alphabetically arranged.
 
 ---
 ### Computer Networks
-- [BGP](https://www.goodreads.com/book/show/2190088.BGP)
+- [BGP](https://www.goodreads.com/book/show/2190088.BGP) The definitive guide but dated.
 - [Computer Networking: A Top-Down Approach](https://www.goodreads.com/book/show/83847.Computer_Networking)
 - [Cloud Native Data Center Networking: Architecture, Protocols, and Tools](https://www.goodreads.com/book/show/48975467-cloud-native-data-center-networking)
-- [Foundations Of Modern Networking: Sdn, Nfv, Qoe, Iot, And Cloud](https://www.goodreads.com/book/show/27407896-foundations-of-modern-networking)
-- [High Performance Browser Networking](https://www.goodreads.com/en/book/show/17985198)
+- [Foundations Of Modern Networking: Sdn, Nfv, Qoe, Iot, And Cloud](https://www.goodreads.com/book/show/27407896-foundations-of-modern-networking) A dense overview of modern networking.
+- [High Performance Browser Networking](https://www.goodreads.com/en/book/show/17985198) Not just for frontend engineers.
 - [Internet Routing Architectures](https://www.goodreads.com/en/book/show/922316)
 - [Interconnections](https://www.goodreads.com/book/show/320321.Interconnections)
-- [Internetworking with TCP/IP - Vol 1](https://www.goodreads.com/book/show/505561.Internetworking_with_TCP_IP_Vol_1)
+- [Internetworking with TCP/IP - Vol 1](https://www.goodreads.com/book/show/505561.Internetworking_with_TCP_IP_Vol_1) A classic. Although a bit dated, this was my first networking book, and it remains my recommendation for beginners who want a good overview.
 - [Internetworking with TCP/IP - Vol 2](https://www.goodreads.com/book/show/688368.Internetworking_with_TCP_IP_Vol_II)
 - [TCP/IP Illustrated, Vol. 1: The Protocols](https://www.goodreads.com/en/book/show/9176515)
 - [TCP/IP Illustrated, Vol. 1: The Protocols](https://www.goodreads.com/book/show/22253037-tcp-ip-illustrated-volume-2)
-- [The TCP/IP Guide: A Comprehensive, Illustrated Internet Protocols Reference](https://www.goodreads.com/en/book/show/505564)
+- [The TCP/IP Guide: A Comprehensive, Illustrated Internet Protocols Reference](https://www.goodreads.com/en/book/show/505564) "Comprehensive" describes this mighty tome best.
 
 ---
 ### Computing History and Lore
 - [A Mind at Play: How Claude Shannon Invented the Information Age](https://www.goodreads.com/book/show/32919530-a-mind-at-play)
 - [Dreaming in Code](https://www.goodreads.com/book/show/32475.Dreaming_in_Code)
 - [Exploding the Phone: The Untold Story of the Teenagers and Outlaws who Hacked Ma Bell](https://www.goodreads.com/book/show/15815810-exploding-the-phone)
-- [Fire in the Valley: The Making of The Personal Computer](https://www.goodreads.com/en/book/show/29382634)
+- [Fire in the Valley: The Making of The Personal Computer](https://www.goodreads.com/en/book/show/29382634) If you read this, also watch the film "Pirates of Silicon Valley" based on it.
 - [Free as in Freedom: Richard Stallman's Crusade for Free Software](https://www.goodreads.com/en/book/show/658332)
 - [Hackers: Heroes of the Computer Revolution](https://www.goodreads.com/book/show/56829.Hackers)
 - [How the Internet Happened: From Netscape to the iPhone](https://www.goodreads.com/book/show/38212134-how-the-internet-happened)
+- [I Sing the Body Electronic](https://www.goodreads.com/en/book/show/840725) Fun fact - The name of the book is based on Walt Whitman's poem "I Sing the Body Electric", 
+although it's culturally closer to Ray Bradbury's short story of the same name as the poem.  
 - [John von Neumann and the Origins of Modern Computing](https://www.goodreads.com/book/show/693796.John_von_Neumann_and_the_Origins_of_Modern_Computing)
-- [Masters of Doom](https://www.goodreads.com/book/show/222146.Masters_of_Doom)
+- [Masters of Doom](https://www.goodreads.com/book/show/222146.Masters_of_Doom) An enthralling narrative of how the iconic FPS Doom was created.
 - [Move Fast: How Facebook Builds Software](https://www.goodreads.com/book/show/58408562-move-fast)
 - [Show Stopper!: The Breakneck Race to Create Windows NT and the Next Generation at Microsoft](https://www.goodreads.com/en/book/show/1416925)
-- [The Cuckoo's Egg: Tracking a Spy Through the Maze of Computer Espionage](https://www.goodreads.com/book/show/18154.The_Cuckoo_s_Egg)
+- [The Cuckoo's Egg: Tracking a Spy Through the Maze of Computer Espionage](https://www.goodreads.com/book/show/18154.The_Cuckoo_s_Egg) A very readable account (from 1989) of tracking down computer hackers. 
 - [The Dream Machine: J.C.R. Licklider and the Revolution That Made Computing Personal](https://www.goodreads.com/book/show/722412.The_Dream_Machine)
 - [The Hacker Crackdown: Law and Disorder on the Electronic Frontier](https://www.goodreads.com/book/show/61182.The_Hacker_Crackdown)
 - [The Man from the Future: The Visionary Ideas of John von Neumann](https://www.goodreads.com/book/show/61089520-the-man-from-the-future)
-- [The Soul of a New Machine](https://www.goodreads.com/book/show/7090.The_Soul_of_a_New_Machine)
+- [The Soul of a New Machine](https://www.goodreads.com/book/show/7090.The_Soul_of_a_New_Machine) One of the classics of the computer age, this book had remarkably foresight in predicting our industry's current work culture. 
 - [UNIX: A History and a Memoir](https://www.goodreads.com/book/show/53011383-unix)
 - [What the Dormouse Said: How the Sixties Counterculture Shaped the Personal Computer Industry](https://www.goodreads.com/book/show/725789.What_the_Dormouse_Said)
 - [Where Wizards Stay Up Late: The Origins of the Internet](https://www.goodreads.com/book/show/281818.Where_Wizards_Stay_Up_Late)
@@ -76,7 +78,7 @@ Sections and titles are alphabetically arranged.
 ---
 ### Essays
 - [Free Software, Free Society: Selected Essays](https://www.goodreads.com/book/show/942560.Free_Software_Free_Society)
-- [Hackers and Painters](https://www.goodreads.com/en/book/show/41793)
+- [Hackers and Painters](https://www.goodreads.com/en/book/show/41793) Paul Graham's essays.
 - [In the Beginning...Was the Command Line](https://www.goodreads.com/book/show/40383049-in-the-beginning-was-the-command-line)
 - [The Best Software Writing I: Selected and Introduced by Joel Spolsky](https://www.goodreads.com/book/show/41787.The_Best_Software_Writing_I)
 - [The Cathedral & the Bazaar: Musings On Linux And Open Source By An Accidental Revolutionary](https://www.goodreads.com/book/show/134825.The_Cathedral_the_Bazaar)
@@ -118,7 +120,7 @@ Sections and titles are alphabetically arranged.
 - [Linux Kernel Development](https://www.goodreads.com/book/show/8474434-linux-kernel-development)
 - [Operating Systems: Three Easy Pieces](https://pages.cs.wisc.edu/~remzi/OSTEP/)
 - [The UNIX Programming Environment](https://www.goodreads.com/en/book/show/337338)
-- [UNIX Internals]()
+- [UNIX Internals](https://www.goodreads.com/book/show/337378.UNIX_Internals)
 
 ---
 ### Operations/SRE/Platform Engineering
